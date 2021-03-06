@@ -11,6 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    max-width: 100vw;
     background: #0e0e0e;
 
 }
@@ -33,11 +34,5 @@ body{
                  0 0 80px #ff8c3b,
                  0 0 160px #ff8c3b,
                  0 0 240px #ff8c3b;
-
-
-}
-svg{
-    width: 0;
-    height: 0;
 
 }
